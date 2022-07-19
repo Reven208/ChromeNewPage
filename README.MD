@@ -12,11 +12,11 @@ Extension que hice, para cambiar el new page de google, puedes cambiar el html n
 
 >Script
 
-![Preview](https://cdn.upload.systems/uploads/8pPRFZ0S.png)
+![Preview](https://cdn.upload.systems/uploads/uKUyk9wk.png)
 
  Si, parece el google default, pero recuerda que puedes cambiar el estilo desde override.html
 
 # INSTALACION
 
 > recuerda que para instalar la extension neceistas ir a **chrome://extensions**, Habilitar modo desarollador y cargar descomprimida, ahi buscaras la carpeta extraida de este repositiorio y la agregaras
-![Installation](https://cdn.upload.systems/uploads/nUHpLnn4.png)
+![Installation](https://cdn.upload.systems/uploads/8pPRFZ0S.png)
