@@ -1,0 +1,20 @@
+{
+    "name": "Inabakumori Page",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Cambia tu new page con algo personalizado MADE BY: Reven#1618",
+    "homepage_url": "https://reven208.github.io/Bio.github.io",
+    "icons": {
+        "128": "icons/icon128.png"
+    },
+  
+    "default_locale": "en",
+    "chrome_url_overrides": {
+        "newtab": "./src/override/override.html"
+
+
+    },
+    "permissions": ["notifications", "contentSettings", "bookmarks"],
+    "csp": "script-src 'self' 'unsafe-inline'; object-src 'self'"
+
+}
