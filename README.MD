@@ -12,7 +12,7 @@ Extension que hice, para cambiar el new page de google, puedes cambiar el html n
 
 >Script
 
-![Preview](https://cdn.upload.systems/uploads/uKUyk9wk.png)
+![Preview](https://cdn.upload.systems/uploads/8pPRFZ0S.png)
 
  Si, parece el google default, pero recuerda que puedes cambiar el estilo desde override.html
 
